@@ -5,8 +5,17 @@
   <span>O Projeto consiste em um sistema que mostra quais jogos a galera gosta mais. Foi utilizado Java com Spring Boot no Backend e TypeScript com ReactJs no Frontend</span>
 </p>
 
+<p align="center">
+  <img src="front-web/src/assets/home.jpeg" alt="">
+</p>
 
+<p align="center">
+  <img src="front-web/src/assets/jogos.jpeg" alt="">
+</p>
 
+<p align="center">
+  <img src="front-web/src/assets/graficos.jpeg" alt="">
+</p>
 
 ### Site 💻
 
@@ -14,3 +23,4 @@
 
 ## Biblioteca: 📙
 - REACT
+- REACT Native
